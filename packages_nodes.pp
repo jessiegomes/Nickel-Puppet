@@ -1,7 +1,9 @@
 # Checks if certain packages are present on the nodes
 # Also if certain services are running
 
-node "enickel2.llnl.gov", "enickel3.llnl.gov", "enickel4.llnl.gov", "enickel5.llnl.gov", "enickel6.llnl.gov", "enickel7.llnl.gov", "enickel8.llnl.gov" "enickel9.llnl.gov", "enickel10.llnl.gov", "enickel11.llnl.gov", {
+#node "enickel2.llnl.gov", "enickel3.llnl.gov", "enickel4.llnl.gov", "enickel5.llnl.gov", "enickel6.llnl.gov", "enickel7.llnl.gov", "enickel8.llnl.gov" "enickel9.llnl.gov", "enickel10.llnl.gov", "enickel11.llnl.gov", {
+
+node "enickel8.llnl.gov" {
 
 # Cluster Build Guide - Setup NTP
 
